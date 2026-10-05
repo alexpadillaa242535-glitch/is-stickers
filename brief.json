@@ -1,0 +1,93 @@
+{
+  "cliente": "is.stickers_",
+  "slug": "is-stickers",
+  "rubro": "venta de stickers personalizados",
+  "estilo": "vibrante",
+  "slogan": "Tu estilo, en cada sticker ✨",
+  "descripcion": "Emprendimiento de stickers personalizados con diseños únicos, vibrantes y hechos con amor. Creamos stickers que expresan tu personalidad en laptops, botellas, agendas y donde quieras.",
+  "cta": "Pedí los tuyos",
+  "primario": "#e8a5e0",
+  "acento": "#ffd93d",
+  "servicios": [
+    {
+      "titulo": "Stickers Personalizados",
+      "texto": "Diseñamos stickers a tu medida: logos, ilustraciones, frases, personajes. Tú nos das la idea, nosotros la volvemos sticker.",
+      "icono": "sparkles"
+    },
+    {
+      "titulo": "Packs Temáticos",
+      "texto": "Colecciones listas para llevar: aesthetic, motivacionales, personajes, naturaleza, frases y más. Ideales para regalar o decorar.",
+      "icono": "package"
+    },
+    {
+      "titulo": "Stickers para Marcas",
+      "texto": "Merchandising adhesivo para emprendimientos y negocios: packaging, etiquetas, sellos de marca, regalos corporativos.",
+      "icono": "shopping-bag"
+    },
+    {
+      "titulo": "Impresión y Envío",
+      "texto": "Impresión en vinilo de alta calidad, resistente al agua y UV. Envíos a todo el país con packaging cuidado.",
+      "icono": "truck"
+    }
+  ],
+  "pasos": [
+    {
+      "titulo": "Elegí o soñá tu diseño",
+      "texto": "Seleccioná de nuestro catálogo o contanos tu idea para crear algo único."
+    },
+    {
+      "titulo": "Aprobá la prueba digital",
+      "texto": "Te enviamos una vista previa para que confirmes colores, tamaño y detalles antes de imprimir."
+    },
+    {
+      "titulo": "Recibí tus stickers",
+      "texto": "Imprimimos, empaquetamos con cariño y enviamos a tu puerta."
+    }
+  ],
+  "beneficios": [
+    "Diseños 100% originales y personalizables",
+    "Vinilo premium resistente al agua y sol",
+    "Tamaños y formas a elección (troquelados)",
+    "Envíos a todo el país",
+    "Atención personalizada por WhatsApp",
+    "Precios accesibles por mayor y menor"
+  ],
+  "testimonios": [],
+  "faqs": [
+    {
+      "pregunta": "¿Qué material usan?",
+      "respuesta": "Vinilo adhesivo de alta calidad, resistente al agua, sol y uso diario. Ideal para laptops, botellas, mates, agendas, autos y más."
+    },
+    {
+      "pregunta": "¿Hacen envíos a todo el país?",
+      "respuesta": "Sí, enviamos a todo Argentina por correo. El costo y tiempo dependen de tu localidad."
+    },
+    {
+      "pregunta": "¿Puedo pedir un diseño totalmente propio?",
+      "respuesta": "¡Claro! Mandanos tu idea, boceto, logo o referencia por WhatsApp y te armamos la propuesta sin cargo."
+    },
+    {
+      "pregunta": "¿Cuánto tardan en entregar?",
+      "respuesta": "Entre 5 y 10 días hábiles desde la aprobación del diseño, más el tiempo de envío."
+    },
+    {
+      "pregunta": "¿Venden por mayor?",
+      "respuesta": "Sí, tenemos precios especiales para revendedores, marcas y eventos. Consultanos por WhatsApp."
+    }
+  ],
+  "inversion": [
+    {
+      "concepto": "Diseño y desarrollo web completo",
+      "monto": "Incluido en este proyecto"
+    }
+  ],
+  "contacto": {
+    "email": "hola@isstickers.com",
+    "telefono": "+54 9 XXXX XXXXXX",
+    "whatsapp": "https://wa.me/549XXXXXXXXXX",
+    "direccion": "Tu ciudad, Argentina",
+    "instagram": "https://instagram.com/is.stickers_",
+    "horario": "Lun a Vie 10-18hs (respuesta por WhatsApp)"
+  },
+  "idioma": "es"
+}
